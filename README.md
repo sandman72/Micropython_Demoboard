@@ -6,6 +6,7 @@ This repo contains all necessary files for our MicroPython Hardware Workshop at 
 <img width="640px" src="./Hardware/MicroPython_DemoBoard_V1.1_3D.jpg" alt="DemoBoard 3D" />
 
 ### Documentation:
+I have provided extensive documentation about the build process, how to program with MicroPython and included a lot of examples.
 You can find the documentation in the Docs directory:
 
 English <a href="./Docs/MicroPython_Demoboard_V1.1_EN.pdf"> MicroPython Demoboard EN Doc (pdf) </a>
@@ -22,7 +23,7 @@ You can find an interactive BOM (Bill of Material) here: <a href="https://raw.gi
 <img width="640px" src="./Hardware/MicroPython_DemoBoard_V1.1_Schematic.jpg" alt="DemoBoard Schematic" />
 <img width="640px" src="./Hardware/MicroPython_DemoBoard_V1.1.jpg" alt="DemoBoard PCB" />
 
-BEWARE: Due to the infamous Errata E7 bug I recommend to stick to the Rasperry Pi Pico RP2040 boards and not use the Pi Pico 2 RP2350 based ones.
+BEWARE: Due to the infamous Errata E7 bug I recommend to stick to the Rasperry Pi Pico RP2040 boards and not use the new Pi Pico 2 RP2350 based ones as the buttons will not work correctly.
 
 ### Firmware:
 Included in the firmware directory is a board test file and the invaders game as self contained UF2 files.
