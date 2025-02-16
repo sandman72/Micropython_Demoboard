@@ -20,21 +20,25 @@ This repo contains all necessary files for our MicroPython Hardware Workshop at 
 I have provided extensive documentation about the build process, how to program with MicroPython and included a lot of examples.
 You can find the documentation in the Docs directory:
 
-English <a href="./Docs/MicroPython_Demoboard_V1.1_EN.pdf"> MicroPython Demo Board EN Doc (pdf) </a>
+English <a href="./Docs/MicroPython_Demoboard_V1.1_EN.pdf" target="_blank"> MicroPython Demo Board EN Doc (pdf) </a>
 
-German  <a href="./Docs/MicroPython_Demoboard_V1.1_DE.pdf"> MicroPython Demo Board DE Doc (pdf) </a>
+German  <a href="./Docs/MicroPython_Demoboard_V1.1_DE.pdf" target="_blank"> MicroPython Demo Board DE Doc (pdf) </a>
 
 ### Hardware:
 The Demo Board works with a Raspberry Pi Pico WH plugged into the pinheaders and connects it to various sensors, buttons, LEDs and an OLED display.
 
-Gerber files to get your own boards produced can be found under the releases tab on the right and in the hardware directory.
+Where can I get a board?
+I have provided Gerber files to get your own boards produced under the releases tab on the right and in the hardware directory.
 
-You can find an interactive BOM (Bill of Material) here: <a href="https://raw.githack.com/sandman72/micropython_demoboard/main/Hardware/KiCAD_DemoBoard_V1.1/MicroPython_DemoBoard_V1.1_iBOM.html" traget="_blank"> iBOM </a>
+Sometimes "leftover" boards from our workshops can be found on <a href="https://www.ebay.de/usr/hellmann42" target="_blank"> my Ebay page</a>.
 
+You can find an interactive BOM (Bill of Material) here: <a href="https://raw.githack.com/sandman72/micropython_demoboard/main/Hardware/KiCAD_DemoBoard_V1.1/MicroPython_DemoBoard_V1.1_iBOM.html" target="_blank"> iBOM </a>
+
+#### Schematic and PCB Layout:
 <img width="640px" src="./Hardware/MicroPython_DemoBoard_V1.1_Schematic.jpg" alt="DemoBoard Schematic" />
 <img width="640px" src="./Hardware/MicroPython_DemoBoard_V1.1.jpg" alt="DemoBoard PCB" />
 
-BEWARE: Due to the infamous Errata E7 bug I recommend to stick to the Rasperry Pi Pico RP2040 boards and not use the new Pi Pico 2 RP2350 based ones as the buttons will not work correctly.
+#### BEWARE: Due to the infamous Errata E7 bug I recommend to stick to the Rasperry Pi Pico RP2040 boards and not use the new Pi Pico 2 RP2350 based ones as the buttons will not work correctly.
 
 ### Firmware:
 Included in the firmware directory is a board test file and the invaders game as self contained UF2 files.
