@@ -1,12 +1,15 @@
 # MicroPython DemoBoard
-This repo contains all necessary files for our MicroPython Hardware Workshop at the Attraktor e.V. Makerspace in Hamburg, Germany: <a href="https://wiki.attraktor.org/Micropython_Kurs_2023"> Attraktor MicroPython Workshop </a>
+This repo contains all necessary files for our MicroPython Hardware Workshop at the Attraktor e.V. Makerspace in Hamburg, Germany: 
+
+<a href="https://wiki.attraktor.org/Micropython_Kurs_2023"> Attraktor MicroPython Workshop </a>
 
 <img width="640px" src="./Hardware/MicroPython_DemoBoard_V1.1_3D.jpg" alt="DemoBoard 3D" />
 
 You can find the documentation in the Docs directory:
 
-<a href="./Docs/MicroPython_Demoboard_V1.1_EN.pdf"> MicroPython Demoboard EN Doc (pdf) </a>
-<a href="./Docs/MicroPython_Demoboard_V1.1_DE.pdf"> MicroPython Demoboard DE Doc (pdf) </a>
+English <a href="./Docs/MicroPython_Demoboard_V1.1_EN.pdf"> MicroPython Demoboard EN Doc (pdf) </a>
+
+German  <a href="./Docs/MicroPython_Demoboard_V1.1_DE.pdf"> MicroPython Demoboard DE Doc (pdf) </a>
 
 ### Hardware:
 The demoboard works with a Raspberry Pi Pico WH plugged into the pinheaders and connects it to various sensors, buttons, LEDs and an OLED display.
