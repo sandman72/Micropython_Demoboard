@@ -1,9 +1,19 @@
 # MicroPython DemoBoard
-This repo contains all necessary files for our MicroPython Hardware Workshop at the Attraktor e.V. Makerspace in Hamburg, Germany: 
-
-<a href="https://wiki.attraktor.org/Micropython_Kurs_2023"> Attraktor MicroPython Workshop </a>
 
 <img width="640px" src="./Hardware/MicroPython_DemoBoard_V1.1_3D.jpg" alt="DemoBoard 3D" />
+
+### What is the MicroPython DemoBoard?
+This started out as a little PCB that we could use in our MicroPython Workshops. We quickly found out during the workshops that 
+breadboarding sensors, buttons and other components took a lot of extra time, was prone to error and sometimes frustrating for beginners.
+So I decided to create a PCB with some standard components that a Raspberry Pi Pico could be plugged into. No mess of wires anymore.
+
+There is two areas that the workshops cover:
+
+1. Building the hardware itself. Good for beginners and people that already know programming, but have no or little expirience with real hardware
+2. Learning to program hardware with MicroPython on the hardware itself. 
+
+This repo contains all necessary files for our MicroPython Hardware Workshop at the Attraktor e.V. Makerspace in Hamburg, Germany: 
+<a href="https://wiki.attraktor.org/Micropython_Kurs_2023"> Attraktor MicroPython Workshop </a>
 
 ### Documentation:
 I have provided extensive documentation about the build process, how to program with MicroPython and included a lot of examples.
