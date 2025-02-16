@@ -1,4 +1,4 @@
-# MicroPython DemoBoard
+# MicroPython Demo Board
 
 <img width="640px" src="./Hardware/MicroPython_DemoBoard_V1.1_3D.jpg" alt="DemoBoard 3D" />
 
@@ -20,12 +20,12 @@ This repo contains all necessary files for our MicroPython Hardware Workshop at 
 I have provided extensive documentation about the build process, how to program with MicroPython and included a lot of examples.
 You can find the documentation in the Docs directory:
 
-English <a href="./Docs/MicroPython_Demoboard_V1.1_EN.pdf"> MicroPython Demoboard EN Doc (pdf) </a>
+English <a href="./Docs/MicroPython_Demoboard_V1.1_EN.pdf"> MicroPython Demo Board EN Doc (pdf) </a>
 
-German  <a href="./Docs/MicroPython_Demoboard_V1.1_DE.pdf"> MicroPython Demoboard DE Doc (pdf) </a>
+German  <a href="./Docs/MicroPython_Demoboard_V1.1_DE.pdf"> MicroPython Demo Board DE Doc (pdf) </a>
 
 ### Hardware:
-The demoboard works with a Raspberry Pi Pico WH plugged into the pinheaders and connects it to various sensors, buttons, LEDs and an OLED display.
+The Demo Board works with a Raspberry Pi Pico WH plugged into the pinheaders and connects it to various sensors, buttons, LEDs and an OLED display.
 
 Gerber files to get your own boards produced can be found under the releases tab on the right and in the hardware directory.
 
@@ -40,6 +40,8 @@ BEWARE: Due to the infamous Errata E7 bug I recommend to stick to the Rasperry P
 Included in the firmware directory is a board test file and the invaders game as self contained UF2 files.
 
 Simply enter the bootsel mode (hold down the bootsel button, while plugging the Pi Pico in) and copy one for the firmwares over.
+
+The default startup will enter a Menu where you can select games and board demos. Connect to the board with a MicroPython Editor like Thonny to programm.
 
 ### Software:
 The software folder contains some demo scripts to try out the different sensors, buttons, buzzer, LEDs and display.
