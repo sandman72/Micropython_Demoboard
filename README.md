@@ -27,7 +27,7 @@ German  <a href="./Docs/MicroPython_Demoboard_V1.1_DE.pdf" target="_blank"> Micr
 ### Hardware:
 The Demo Board works with a Raspberry Pi Pico WH plugged into the pinheaders and connects it to various sensors, buttons, LEDs and an OLED display.
 
-Where can I get a board?
+#### Where can I get a board?
 I have provided Gerber files to get your own boards produced under the releases tab on the right and in the hardware directory.
 
 Sometimes "leftover" boards from our workshops can be found on <a href="https://www.ebay.de/usr/hellmann42" target="_blank"> my Ebay page</a>.
