@@ -32,7 +32,7 @@ I have provided Gerber files to get your own boards produced under the releases 
 
 Sometimes "leftover" boards from our workshops can be found on <a href="https://www.ebay.de/usr/hellmann42" target="_blank"> my Ebay page</a>.
 
-You can find an interactive BOM (Bill of Material) here: <a href="https://raw.githack.com/sandman72/micropython_demoboard/main/Hardware/KiCAD_DemoBoard_V1.1/MicroPython_DemoBoard_V1.1_iBOM.html" target="_blank"> iBOM </a>
+You can find an interactive BOM (Bill of Material) here: <a href="https://raw.githack.com/sandman72/micropython_demoboard/main/Hardware/MicroPython_DemoBoard_V1.1_iBOM.html" target="_blank"> iBOM </a>
 
 #### Schematic and PCB Layout:
 <img width="640px" src="./Hardware/MicroPython_DemoBoard_V1.1_Schematic.jpg" alt="DemoBoard Schematic" />
