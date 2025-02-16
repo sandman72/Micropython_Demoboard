@@ -7,10 +7,11 @@ This started out as a little PCB that we could use in our MicroPython Workshops.
 breadboarding sensors, buttons and other components took a lot of extra time, was prone to error and sometimes frustrating for beginners.
 So I decided to create a PCB with some standard components that a Raspberry Pi Pico could be plugged into. No mess of wires anymore.
 
-There is two areas that the workshops cover:
+There is three areas that the workshops cover:
 
 1. Building the hardware itself. Good for beginners and people that already know programming, but have no or little expirience with real hardware
-2. Learning to program hardware with MicroPython on the hardware itself. 
+2. Learning to program hardware with MicroPython on the hardware itself.
+3. Have fun with the included games. ;)
 
 This repo contains all necessary files for our MicroPython Hardware Workshop at the Attraktor e.V. Makerspace in Hamburg, Germany: 
 <a href="https://wiki.attraktor.org/Micropython_Kurs_2023"> Attraktor MicroPython Workshop </a>
